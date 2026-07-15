@@ -1,0 +1,9 @@
+{
+  "appId": "com.aichat.clientside",
+  "appName": "AI Chat",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
